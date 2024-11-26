@@ -6,6 +6,7 @@ def Codigo():
     return "hello world"+str(10)
 # Fim do codigo que será tratado
 
+#executando Vox Tests
 print(Vox_variable.VoxValidate(Codigo))
 
 
